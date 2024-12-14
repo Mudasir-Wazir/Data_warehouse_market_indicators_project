@@ -9,7 +9,7 @@ This project implements a comprehensive **data warehouse** to analyze relationsh
   - **Daily Stock Market Data** (S&P 500 metrics)
   - **Quarterly Economic Metrics** (GDP, housing prices)
   - **Monthly Indicators** (CPI, unemployment rates)
-![Data Cube](images/Data%20cube.png)
+![Data Cube](Data%20cube.png)
 
 
 - **OLAP Implementation**:
