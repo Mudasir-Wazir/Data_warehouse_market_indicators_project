@@ -1,0 +1,1 @@
+# Data_warehouse_market_indicators_project
